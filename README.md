@@ -1,2 +1,4 @@
 # manual-wireshark
-for me
+
+
+Ctrl + R : 화면 
