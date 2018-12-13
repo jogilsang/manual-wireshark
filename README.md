@@ -1,5 +1,14 @@
 # manual-wireshark
 
+### 무료 프록시 서버
+http://www.freeproxylists.net/  
+
+### 윈도우 방화벽 설정
+firewall.cpl  
+아웃바운드 (차단)  
+- 포트 선택 (와이어샤크로 패킷캡처)  
+- 프로그램 선택 (파일경로)  
+- IP 선택  (범위)  
 
 Ctrl + R : 화면 
 
