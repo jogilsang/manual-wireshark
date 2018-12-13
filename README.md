@@ -10,3 +10,7 @@ ip.addr == 27.0.236.201 and not arp and tcp
 
 // 
 ip.addr == 27.0.236.68
+
+
+### 포트 보는법
+statistics - > conversations -> tcp -> limit to display filter  
